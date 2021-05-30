@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=5C:F3:68:0E:90:13:AE:9A:56:77:A3:C0:1D:98:FB:4F:BA:96:2A:85%3Bcom.example.instatram
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.instatram
+
+    SHA-1 certificate fingerprint:
+    5C:F3:68:0E:90:13:AE:9A:56:77:A3:C0:1D:98:FB:4F:BA:96:2A:85
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCwTT0I_2LY5_CR13XTJUoNyNBvI2pMMIo</string>
+</resources>

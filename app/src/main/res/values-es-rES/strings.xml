@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instatram</string>
+    <string name="button">Inicie la aplicación </string>
+    <string name="welcome">Bienvenido a barcelona</string>
+    <string name="button1">Estación 1 </string>
+    <string name="button2">Estación 2 </string>
+    <string name="button3">Estación 3 </string>
+    <string name="button4">Estación 4 </string>
+    <string name="button5">Estación 5 </string>
+    <string name="item3">casa</string>
+    <string name="item4">mapa</string>
+    <string name="item5">ajustes</string>
+    <string name="subitem1">idioma</string>
+    <string name="subitem2">tema</string>
+    <string name="language">Cambia el idioma</string>
+    <string name="english">Inglés</string>
+    <string name="spanish">Español</string>
+    <string name="theme">Cambiar el tema</string>
+    <string name="light">Claro</string>
+    <string name="dark">Oscuro</string>
+
+</resources>
